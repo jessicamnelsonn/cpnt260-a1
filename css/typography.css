@@ -1,0 +1,30 @@
+body{
+  /* Text font */
+  font-size: 19px ;
+  font-family: 'Anton', sans-serif;
+  line-height: 1.5;
+}
+
+h1{
+  /* Display font */
+  font-family: 'Bangers', 'cursive';
+  font-size: 30px;
+  letter-spacing: .2rem;
+}
+
+p{
+  /* Paragraph font */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+}
+
+.end-statement{
+  /* Last statement in h2 font */
+  font-variant: small-caps;
+}
+
+.hiking-list-points{
+  /* Bullet point font */
+  font-family:'Assistant', sans-serif;
+  font-variant: small-caps; 
+}

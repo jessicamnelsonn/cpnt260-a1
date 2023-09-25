@@ -1,0 +1,39 @@
+body{
+  /* Box model */
+  max-width: 650px;
+  padding: 2rem;
+  margin: auto;
+  text-align: center;
+}
+
+img{
+  /* Images display */
+  border-radius: 50%;
+  width: 100%;
+  display: block;
+}
+
+p{
+  text-align: left;
+}
+
+.end-statement{
+  text-align: center;
+}
+
+.hiking-list-points{
+  text-align: left;
+}
+
+.bear{
+  /* Bear image display */
+  border-radius: 0%;
+  width: 100%;
+  display: block;
+}
+
+.chester-lake, .hiking-list{
+  /* h2 background display */
+  padding: 2rem;
+  display: inline-block;
+}
