@@ -1,6 +1,6 @@
 body{
   /* Body background color */
-  background-image: linear-gradient(#0a2d26, #196757 ) 
+  background-image: linear-gradient(#0a2d26, #eef0ef )
 }
 
 h1{
@@ -29,7 +29,9 @@ h1{
     /* Link display */
     text-decoration: underline;
   }
-  
+  body {
+    background-image: linear-gradient(#0a2d26, #196757 ) 
+  }
 }
 
 
